@@ -12,31 +12,36 @@
 ## 🔧 Technologies & Tools
 
 ### 👨‍💻 Programming Languages
-- 🐍 **Python** — Core for AI/ML projects and data processing  
-- ⚡ **JavaScript** — For interactive web components  
-- 🧮 **SQL** — For querying and managing databases  
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌐 Web Technologies
-- 🔤 **HTML5** — Semantic structuring of content  
-- 🎨 **CSS3** — Styling with responsiveness  
-- 💻 **JavaScript** — Frontend scripting  
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧰 Frameworks & Libraries
-- 🕸️ **Django** — Python backend framework for rapid dev  
-- 🖼️ **Tkinter** — GUI applications in Python  
-- 🧠 **TensorFlow** — Deep learning and neural network modeling  
-- 📊 **scikit-learn** — ML algorithms and data preprocessing  
 
-### 🧠 Machine Learning & AI Expertise
-- 🧬 **Artificial Neural Networks (ANN)**  
-- 🗣️ **Natural Language Processing (NLP)**  
-- 👁️ **Computer Vision (CV)**  
-- 🐜 **Swarm Intelligence**  
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![Tkinter](https://img.shields.io/badge/Tkinter-FF6600?style=for-the-badge&logo=python&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 🧠 Machine Learning & AI
+
+- ![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-brightgreen?style=for-the-badge&logo=neural&logoColor=white)
+- ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=vercel&logoColor=white)
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white)
+- ![Swarm Intelligence](https://img.shields.io/badge/Swarm%20Intelligence-F39C12?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 📚 Learning Platforms
-- ☁️ **Google Cloud Skills Boost** — Generative AI & cloud ML  
-- 🎓 **DataCamp** — Python & ML certifications  
-- 🧪 **Kaggle** — ML challenges and datasets  
+
+- ![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+- ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
+- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
@@ -66,3 +71,4 @@
 <p align="center">
   🚀 Eager to innovate. Ready to collaborate. Let’s build something smart!
 </p>
+
