@@ -1,3 +1,8 @@
+<!-- Profile Visitor Counter Badge -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=Profile+visits&color=0e75b6&style=flat" alt="zaidahmedofficial" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Zaid Ahmed</h1>
 <h3 align="center">AI/ML Developer | Machine Intelligence Explorer</h3>
 
@@ -6,6 +11,14 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-yellow?style=for-the-badge&logo=github"/>
 </p>
+
+---
+
+## 🧠 About Me
+
+Hi, I'm **Zaid Ahmed**, an **AI/ML Developer** with a passion for building intelligent, scalable systems.  
+I focus on implementing innovative strategies to optimize project efficiency and precision.  
+I'm currently exploring advanced applications of AI and contributing to the field through continuous learning and development.
 
 ---
 
@@ -71,4 +84,3 @@
 <p align="center">
   🚀 Eager to innovate. Ready to collaborate. Let’s build something smart!
 </p>
-
