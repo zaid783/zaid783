@@ -52,6 +52,13 @@ I'm currently exploring advanced applications of AI and contributing to the fiel
 - ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white)
 - ![Swarm Intelligence](https://img.shields.io/badge/Swarm%20Intelligence-F39C12?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### 💾 Databases & 🐳 Containerization
+
+- ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![SQL SERVER](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![MS SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 📚 Learning Platforms
 
 - ![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
