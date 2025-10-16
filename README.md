@@ -82,7 +82,8 @@ I'm currently exploring advanced applications of AI and contributing to the fiel
 
 - 📧 **Email**: [zaidlaiq99@gmail.com](mailto:zaidlaiq99@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/zaid-ahmed-b56a33218](https://www.linkedin.com/in/zaid-ahmed-b56a33218)  
-- 📱 **Phone**: +92-3218712730  
+- 📱 **Phone**: +92-3218712730
+- 🌐 **Portfolio**: https://zaidahmed-portfolio-7alg.vercel.app/
 
 ---
 
