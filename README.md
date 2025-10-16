@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Zaid Ahmed</h1>
-<h3 align="center">AI/ML Developer | Machine Intelligence Explorer</h3>
+<h3 align="center">AI/ML Developer | Machine Intelligence Explorer | FULL STACK DEVELOPER </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Active-blueviolet?style=for-the-badge&logo=ai&logoColor=white"/>
