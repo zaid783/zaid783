@@ -1,96 +1,89 @@
-<!-- Profile Visitor Counter Badge -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=Profile+visits&color=0e75b6&style=flat" alt="zaidahmedofficial" />
-</p>
-
-<h1 align="center">👋 Hi, I'm Zaid Ahmed</h1>
-<h3 align="center">AI/ML Developer | FULL STACK DEVELOPER </h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidahmedofficial&label=Profile+visits&color=0e75b6&style=flat" alt="Profile Visitors" />
+  <h1>Hi there, I'm Zaid Ahmed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Active-blueviolet?style=for-the-badge&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-green?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-yellow?style=for-the-badge&logo=github"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AE2FF&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Developer;Full-Stack+Software+Engineer;BS+Artificial+Intelligence+Graduate;Innovating+with+YOLO26+%26+OpenVINO" alt="Animated Typing Text" />
 </p>
+
+> **Mission:** Building intelligent, scalable systems and optimizing project efficiency with a seamless blend of full-stack development, modern UI/UX principles, and advanced machine learning.
 
 ---
 
 ## 🧠 About Me
 
-Hi, I'm **Zaid Ahmed**, an **AI/ML Developer** with a passion for building intelligent, scalable systems.  
-I focus on implementing innovative strategies to optimize project efficiency and precision.  
-I'm currently exploring advanced applications of AI and contributing to the field through continuous learning and development.
+Having recently completed my **Bachelor of Science in Artificial Intelligence**, I am deeply focused on applying advanced AI methodologies to real-world, scalable applications. From building production-ready **License Plate Recognition (LPR) systems** optimized for CPU frameworks to developing AI-native collaborative tools, I thrive at the intersection of AI and full-stack architecture.
+
+* 🌱 **Currently focusing on:** Deep Learning, Natural Language Processing, and enterprise workflow automation.
+* 🎨 **Design & Architecture:** Applying Gestalt principles to modern interfaces using Figma and Bootstrap 5.
+* 🎯 **Future Goals:** Contributing to cutting-edge research, intelligent automation, and pursuing advanced academic opportunities in Europe.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🚀 Tech Stack & Tools
 
-### 👨‍💻 Programming Languages
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web Technologies
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🧰 Frameworks & Libraries
-- ![Angular Js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- ![Nest Js](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Tkinter](https://img.shields.io/badge/Tkinter-FF6600?style=for-the-badge&logo=python&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🧠 Machine Learning & AI
-
-- ![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-brightgreen?style=for-the-badge&logo=neural&logoColor=white)
-- ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=vercel&logoColor=white)
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white)
-- ![Swarm Intelligence](https://img.shields.io/badge/Swarm%20Intelligence-F39C12?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 💾 Databases & 🐳 Containerization
-
-- ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![SQL SERVER](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![MS SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📚 Learning Platforms
-
-- ![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-- ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)
-- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<table align="center" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Web & UI</b></td>
+    <td align="center"><b>Frameworks & Backend</b></td>
+    <td align="center"><b>AI & Machine Learning</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Computer_Vision-1ABC9C?style=for-the-badge&logo=opencv&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=scikitlearn&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/YOLO26_%26_OpenVINO-FF3366?style=for-the-badge&logo=intel&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Areas of Interest
-
-- 🤖 **Artificial Intelligence** — Building smart autonomous systems  
-- 📈 **Machine Learning** — Predictive modeling and automation  
-- 👁️‍🗨️ **Computer Vision** — Image recognition and object detection  
-- 🗣️ **Natural Language Processing** — Text understanding and generation  
-- 🐜 **Swarm Intelligence** — Nature-inspired AI techniques  
-- 🔍 **Research & Innovation** — Exploring the frontiers of AI  
-
----
-
-## 📫 Contact Me
-
-- 📧 **Email**: [zaidlaiq99@gmail.com](mailto:zaidlaiq99@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/zaid-ahmed-b56a33218](https://www.linkedin.com/in/zaid-ahmed-b56a33218)  
-- 📱 **Phone**: +92-3218712730
-- 🌐 **Portfolio**: https://zaidahmed-portfolio-7alg.vercel.app/
-
----
+## 📊 GitHub Analytics 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4AE2FF&center=true&vCenter=true&width=600&lines=AI+Focused+Developer;Machine+Learning+Explorer;Computer+Vision+In+Practice" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidahmedofficial&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=4AE2FF&icon_color=4AE2FF&text_color=C9D1D9&border_radius=10&border_color=30363D" alt="Zaid's GitHub Stats" />
 </p>
 
+---
+
+## 🎯 Core Competencies
+
 <p align="center">
-  🚀 Eager to innovate. Ready to collaborate. Let’s build something smart!
+  <kbd>Artificial Intelligence</kbd> •
+  <kbd>Predictive Modeling</kbd> •
+  <kbd>License Plate Recognition</kbd> •
+  <kbd>Full-Stack Web Apps</kbd> •
+  <kbd>Swarm Intelligence</kbd> •
+  <kbd>UI/UX Prototyping</kbd>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:zaidlaiq99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/zaid-ahmed-b56a33218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://zaidahmed-portfolio-7alg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
